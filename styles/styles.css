@@ -44,9 +44,9 @@ aside p{
     text-align: center;
 }
 aside h2 {
-    position: relative;
-    top: 168px;
-    left: 6px;
+    position: absolute;
+    top: 785px;
+    left: 40px;
     color: #fff;
 }
 
