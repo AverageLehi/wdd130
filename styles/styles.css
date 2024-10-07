@@ -38,6 +38,7 @@ main {
 
 aside {
     width: 350px;
+    position: relative;
 }
 
 aside p{
@@ -45,8 +46,8 @@ aside p{
 }
 aside h2 {
     position: absolute;
-    top: 785px;
-    left: 40px;
+    top: 150px;
+    left: 27px;
     color: #fff;
 }
 
